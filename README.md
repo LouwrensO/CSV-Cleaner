@@ -15,4 +15,4 @@ This Python script cleans up messy CSV files:
 
 ## Example Screenshot
 
-📷 See `/screenshots/cleaning-demo.png` for an example
+📷 See `/Screenshots/` for an example
